@@ -22,6 +22,7 @@ A centralized navigation controller that holds all navigation states:
 * Current tab
 * Path stack per tab
 * Presented modals or sheets
+* Shimmer loading 
 
 ### 2. `AppRoute` (Enum)
 
